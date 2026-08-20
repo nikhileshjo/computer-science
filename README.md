@@ -98,9 +98,9 @@ just remember that you can't purchase success!
   - [Core applications](#core-applications)
   - [Core ethics](#core-ethics)
 - [Advanced CS](#advanced-cs)
-  - [Advanced programming](#advanced-programming)
-  - [Advanced systems](#advanced-systems)
-  - [Advanced theory](#advanced-theory)
+  - [Advanced programming](#advanced-programming)PROBABLE PICK
+  - [Advanced systems](#advanced-systems)PROBABLE PICK
+  - [Advanced theory](#advanced-theory)PROBABLE PICK
   - [Advanced information security](#advanced-information-security)
   - [Advanced math](#advanced-math)
 - [Final project](#final-project)
